@@ -308,7 +308,7 @@ Meta-Learners Overall Performance
 
 Meta Learner Analysis
 
-![Meta Learner Analysis]](https://github.com/pratik-ganorkar/Cognitive-Adversarial-Techniques-for-the-Prevention-of-Cyber-Attack/blob/main/meta_learner_table.png))
+![Meta Learner Analysis](https://github.com/pratik-ganorkar/Cognitive-Adversarial-Techniques-for-the-Prevention-of-Cyber-Attack/blob/main/meta_learner_table.png))
 
 ---
 
@@ -329,4 +329,5 @@ To contribute:
 
 ---
    
+
 
