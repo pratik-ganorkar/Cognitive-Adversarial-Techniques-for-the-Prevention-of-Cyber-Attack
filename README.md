@@ -45,7 +45,7 @@ To set up the environment for **Google Colab** Create an account and install/imp
  **Check the Repository** to understand the necessary python packages and libraries reqired for training and testing
  
 ```
-  [(https://github.com/pratik-ganorkar/Cognitive-Adversarial-Techniques-for-the-Prevention-of-Cyber-Attack.git)]
+  https://github.com/pratik-ganorkar/Cognitive-Adversarial-Techniques-for-the-Prevention-of-Cyber-Attack
 ```
 ---
 
@@ -327,6 +327,7 @@ To contribute:
 
 ---
    
+
 
 
 
