@@ -34,7 +34,7 @@ Before setting up the project, make sure you have the following dependencies ins
 - **Python**
 - **pip** (Python package installer)
 - Refer to below link
-  [Requirements](https://github.com/pratik-ganorkar/Cognitive-Adversarial-Technique-For-Prevention-Of-Cyber-Attack/blob/main/requirements.txt)
+  [Requirements]([https://github.com/pratik-ganorkar/Cognitive-Adversarial-Technique-For-Prevention-Of-Cyber-Attack/blob/main/requirements.txt])
 
 ---
 
@@ -284,31 +284,31 @@ Below are some example images of models working and results in the form of graph
 
 Base Leaner-Decision Tree
 
-![Base Leaner-Decision Tree](https://github.com/Sakshi-Hardwani/Cognitive-Adversarial-Technique-For-Prevention-Of-Cyber-Attack/blob/main/result_dtree.png) 
+![Base Leaner-Decision Tree](https://github.com/pratik-ganorkar/Cognitive-Adversarial-Techniques-for-the-Prevention-of-Cyber-Attack/blob/main/result_dtree.png)) 
 
 Base Leaner-KNN
 
-![Base Leaner-KNN](https://github.com/Sakshi-Hardwani/Cognitive-Adversarial-Technique-For-Prevention-Of-Cyber-Attack/blob/main/result_knn.png)
+![Base Leaner-KNN](https://github.com/pratik-ganorkar/Cognitive-Adversarial-Techniques-for-the-Prevention-of-Cyber-Attack/blob/main/result_knn.png))
 
 Base Leaner-SVC
 
-![Base Leaner-SVC](https://github.com/Sakshi-Hardwani/Cognitive-Adversarial-Technique-For-Prevention-Of-Cyber-Attack/blob/main/result_svc.png)
+![Base Leaner-SVC](https://github.com/pratik-ganorkar/Cognitive-Adversarial-Techniques-for-the-Prevention-of-Cyber-Attack/blob/main/result_svc.png))
 
 Base Learners Overall Performance
 
-![Base Learners Overall Performance](https://github.com/Sakshi-Hardwani/Cognitive-Adversarial-Technique-For-Prevention-Of-Cyber-Attack/blob/main/result.png)
+![Base Learners Overall Performance](https://github.com/pratik-ganorkar/Cognitive-Adversarial-Techniques-for-the-Prevention-of-Cyber-Attack/blob/main/result.png))
 
 Base Learners Analysis
 
-![Base Learners Analysis](https://github.com/Sakshi-Hardwani/Cognitive-Adversarial-Technique-For-Prevention-Of-Cyber-Attack/blob/main/base_learner_table.png)
+![Base Learners Analysis](https://github.com/pratik-ganorkar/Cognitive-Adversarial-Techniques-for-the-Prevention-of-Cyber-Attack/blob/main/base_learner_table.png))
 
 Meta-Learners Overall Performance
 
-![Search Functionality](https://github.com/Sakshi-Hardwani/Cognitive-Adversarial-Technique-For-Prevention-Of-Cyber-Attack/blob/main/result_meta.png)
+![Search Functionality](https://github.com/pratik-ganorkar/Cognitive-Adversarial-Techniques-for-the-Prevention-of-Cyber-Attack/blob/main/result_meta.png))
 
 Meta Learner Analysis
 
-![Meta Learner Analysis](https://github.com/Sakshi-Hardwani/Cognitive-Adversarial-Technique-For-Prevention-Of-Cyber-Attack/blob/main/meta_learner_table.png)
+![Meta Learner Analysis]](https://github.com/pratik-ganorkar/Cognitive-Adversarial-Techniques-for-the-Prevention-of-Cyber-Attack/blob/main/meta_learner_table.png))
 
 ---
 
@@ -329,3 +329,4 @@ To contribute:
 
 ---
    
+
